@@ -8,5 +8,5 @@ $student["leeftijd"]=19;
 
 
 
-echo  "$student["voornaam"] $studenten["achternaam"] is $studenten["leeftijd"] jaar oud en is student aan het ROC van Amsterdam aan de opleiding $student["opleiding"] .";
+echo  "$student["voornaam"] $studenten["achternaam"] is $studenten["leeftijd"] jaar oud en is student aan het ROC van Amsterdam aan de opleiding $student["opleiding"].";
 ?>

@@ -1,8 +1,8 @@
 <?php
 
 
-$dagen = array("<ul> <li> maandag </ul> </li>", "<ul> <li>dinsdagg</ul> </li>", "<ul> <li> woensdag </ul> </li>", "<ul> <li> donderdag </ul> </li>", "<ul> <li> vrijdag </ul> </li>", "<ul> <li> zaterdag </ul> </li>", "<ul> <li> zondag </ul> </li>");
+$dagen = array("maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag");
 foreach ($dagen as $value) {
-    echo "$value <br>";
+    echo "<li>$value</li> <br>";
 }
 ?>

@@ -1,3 +1,4 @@
+<ul>
 <?php
 
 
@@ -6,3 +7,4 @@ foreach ($dagen as $value) {
     echo "<li>$value</li> <br>";
 }
 ?>
+</ul>

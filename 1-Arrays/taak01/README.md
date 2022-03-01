@@ -1,6 +1,6 @@
 # PHP-ADVANCED - ARRAYS
 
-## 1.1 Opdracht - Associatieve Arrays
+## Taak 01 - Associatieve Arrays
 
 ## Uitleg
 

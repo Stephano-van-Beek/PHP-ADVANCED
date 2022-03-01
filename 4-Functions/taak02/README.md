@@ -1,7 +1,7 @@
 # PHP-Advanced-Functions-Taak-02
 
 
-## Opdracht-4.2 - Functions met argumenten deel 2
+## Functions met argumenten deel 2
 
 
 ## Uitleg

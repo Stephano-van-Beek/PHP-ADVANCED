@@ -1,7 +1,7 @@
 # PHP-Advanced-Forms-Taak-02
 
 
-## Opdracht-3.2 - Forms - POST - deel2
+## Forms - POST - deel2
 
 
 ## Uitleg

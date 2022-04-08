@@ -8,8 +8,8 @@
 </head>
 <head>
     <style> 
-    table, tr, th{
-        border: <?php echo $_POST["tabelrand"]?>px black;
+   th, td{
+        border: <?php echo $_POST["tabelrand"]?>px solid black;
         padding: <?php echo $_POST["celpadding"]?>px;
         background-color: <?php echo $_POST["achtergrondkleur"]?>;
         color:  <?php echo $_POST["tekstkleur"]?>;
@@ -18,7 +18,6 @@
 </head>
 <body>
 <form action="advanced-1.php" method="POST">
-<form>
 <table>
 <tr>
     <th>Key</th>
@@ -47,3 +46,4 @@
 </form>
 </body>
 </html>
+

@@ -23,7 +23,7 @@
     <th>Key</th>
     <th>Value</th>
 </tr>
-<?php 
+<?php
     $student = array("Naam"=>"Stéphano",
                      "Klas"=>"1A", 
                      "Leeftijd"=>"19", 
@@ -46,4 +46,5 @@
 </form>
 </body>
 </html>
+
 

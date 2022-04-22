@@ -11,7 +11,7 @@
 <form action="advanced-2.php" method="POST">
 <tabel>
 <?php
-echo "<fieldset style='border: solid 1px; width:150px;'><legend> informatie over student </legend>";
+echo "<fieldset style='border: solid 1px; width:150px;'><legend> Kleur </legend>";
 ?>
     Tabelranddikte (px): <input type="text" name="tabelrand" id="tabelrand"><br>
     Celpadding (px): <input type="text" name="celpadding" id="celpadding"><br>
